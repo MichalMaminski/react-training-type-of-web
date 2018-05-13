@@ -10,7 +10,7 @@ function AppHeader() {
       <nav class="ui container">
         <a class="header item">
           <img
-            class="logo"
+            className="logo"
             alt="logo"
             src="https://typeofweb.com/wp-content/uploads/2017/08/cropped-typeofweb_logo-04-white-smaller-1-e1504359870362.png"
           />
